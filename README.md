@@ -1,3 +1,5 @@
-<p>This is some text.</p>
-<script src="https://asciinema.org/a/14.js" id="asciicast-14" async></script>
-<p>This is some other text.</p>
+
+Discourse.Markdown.whiteListTag(‘script’, ‘type’, ‘text/javascript’);
+Discourse.Markdown.whiteListTag(‘script’, ‘src’, /https://asciinema.org/a/\d+.js/);
+Discourse.Markdown.whiteListTag(‘script’, ‘id’, ‘*’);
+Discourse.Markdown.whiteListTag(‘script’, ‘async’);
