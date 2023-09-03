@@ -1,6 +1,6 @@
 <div align="center">
   <h1> dnsrecord </h1>
-  <img width="200" heigth='40' src="dnsrecord.png"  />
+  <img width="400" heigth='100' src="dnsrecord.png"  />
 </div>
 <hr>
 Fuzz dns records and scan accord record  type
