@@ -1,7 +1,8 @@
 # dnsrecord
-
+![Logo](dnsrecord.png)
+<hr>
 Fuzz dns records and scan accord record  type
-
+<hr>
 ## Installation & Usage
 
 ```
@@ -14,4 +15,3 @@ dnsrecord -d examole.com
 ```
 ## into
 ![](into.gif)
-```
