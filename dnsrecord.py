@@ -75,7 +75,6 @@ def get_dns_record(domain: str) :
 
 if __name__ == "__main__" :
     banner()
-    print("-"*100)
     try:
         get_dns_record(domain)
     except Exception as e:
