@@ -1,5 +1,7 @@
 # dnsrecord
-![Logo](dnsrecord.png)
+<div align="center">
+  <img width="200" src="dnsrecord.png"  />
+</div>
 <hr>
 Fuzz dns records and scan accord record  type
 <hr>
