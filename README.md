@@ -1,1 +1,15 @@
-<a href="https://asciinema.org/a/14?autoplay=1"><img src="https://asciinema.org/a/14.png" width="836"/></a>
+# dnsrecord
+
+Fuzz dns records and scan accord record  type
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+## into
+![](into.gif)
+```
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
