@@ -1,9 +1,9 @@
 <div align="center">
   <h1> dnsrecord </h1>
+  <p>Fuzz dns records and scan accord record  type</p>
   <img width="400" heigth='100' src="dnsrecord.png"  />
 </div>
-<hr>
-Fuzz dns records and scan accord record  type
+
 <hr>
 
 ## into
