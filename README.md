@@ -17,5 +17,11 @@ cd dnsrecord
 pip install -r requirements.txt
 chmod +x dnsrecord.py
 sudo cp dnsrecord.py /usr/bin/dnsrecord
-dnsrecord -d examole.com
 ```
+## Usage
+
+```
+dnsrecord -d examole.com
+dnsrecord -d examole.com -t TXT
+```
+
