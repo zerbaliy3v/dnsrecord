@@ -9,7 +9,7 @@
 ## into
 ![](into.gif)
 
-## Installation & Usage
+## Installation
 
 ```
 git clone https://github.com/zerbaliy3v/dnsrecord.git
