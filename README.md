@@ -24,4 +24,6 @@ sudo cp dnsrecord.py /usr/bin/dnsrecord
 dnsrecord -d examole.com
 dnsrecord -d examole.com -t TXT
 ```
+## star history
+[![Star History Chart](https://api.star-history.com/svg?repos=zerbaliy3v/dnsrecord&type=Date)](https://star-history.com/#zerbaliy3v/dnsrecord&Date)
 
